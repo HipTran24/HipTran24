@@ -10,34 +10,36 @@
 
 ---
 
-### 💻 About Me
-As a dedicated Software Engineer, I am currently focused on designing and building robust web applications and scalable backend systems. I have a deep passion for writing clean, maintainable code, exploring modern software architecture, and leveraging cloud technologies to solve complex problems. Whether you want to discuss system design or chat about code in .NET, C#, Java, Python, or React, I'm always open to connecting—feel free to reach out via my social links below!
+<h3 align="center">💻 About Me</h3>
+<p align="center">
+  As a dedicated Software Engineer, I am currently focused on designing and building robust web applications and scalable backend systems. I have a deep passion for writing clean, maintainable code, exploring modern software architecture, and leveraging cloud technologies to solve complex problems. Whether you want to discuss system design or chat about code in .NET, C#, Java, Python, or React, I'm always open to connecting—feel free to reach out via my social links below!
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<p align="left">
+<p align="center">
   <!-- Ngôn ngữ lập trình -->
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   
-  <br>
+  <br><br>
 
   <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 
-  <br>
+  <br><br>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-  <br>
+  <br><br>
 
   <!-- Cloud, DevOps & Tools -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -48,7 +50,7 @@ As a dedicated Software Engineer, I am currently focused on designing and buildi
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HipTran24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -64,9 +66,9 @@ As a dedicated Software Engineer, I am currently focused on designing and buildi
 
 ---
 
-### 🌐 Connect with me
+<h3 align="center">🌐 Connect with me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-thanh-hi%E1%BB%87p-a13a01314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
