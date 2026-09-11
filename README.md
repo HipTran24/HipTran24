@@ -1,19 +1,24 @@
-<h1 align="center">I'M TRAN THANH HIEP</h1>
+<h1 align="center">TRẦN THANH HIỆP</h1>
 <p align="center">
   <b>🚀 Software Engineer & Solution Architect • Crafting Scalable Backend Systems 🚀</b>
 </p>
 
 <br>
 
-### 💻 &nbsp; A B O U T &nbsp; M E
+<h2 align="center">💻 A B O U T &nbsp; M E</h2>
 
-As a dedicated **Software Engineer** and **Solution Architect**, I specialize in designing and engineering robust web applications and highly scalable backend architectures. 
-
-Driven by a passion for clean code, system optimization, and modern cloud solutions, I love turning complex challenges into seamless, production-ready software. Let's connect if you want to talk about system design, cloud infrastructure, or clean code architecture in **.NET, Java, Python, or React**!
+<div align="center">
+  <p style="font-size: 16px;">
+    As a dedicated <b>Software Engineer</b> and <b>Solution Architect</b>, I specialize in designing and engineering robust web applications and highly scalable backend architectures.
+  </p>
+  <p style="font-size: 16px;">
+    Driven by a passion for clean code, system optimization, and modern cloud solutions, I love turning complex challenges into seamless, production-ready software. Let's connect if you want to talk about system design, cloud infrastructure, or clean code architecture in <b>.NET, Java, Python, or React</b>!
+  </p>
+</div>
 
 ---
 
-### 🛠️ &nbsp; T E C H &nbsp; S T A C K &nbsp; & &nbsp; T O O L S
+<h2 align="center">🛠️ &nbsp; T E C H &nbsp; S T A C K &nbsp; & &nbsp; T O O L S</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,15 +28,7 @@ Driven by a passion for clean code, system optimization, and modern cloud soluti
 
 ---
 
-### 📊 &nbsp; G I T H U B &nbsp; A N A L Y T I C S
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HipTran24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipTran24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<h2 align="center">📊 &nbsp; G I T H U B &nbsp; A N A L Y T I C S</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HipTran24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -39,7 +36,7 @@ Driven by a passion for clean code, system optimization, and modern cloud soluti
 
 ---
 
-### 🌐 &nbsp; C O N N E C T &nbsp; &nbsp; W I T H &nbsp; M E
+<h2 align="center">🌐 &nbsp; C O N N E C T &nbsp; &nbsp; W I T H &nbsp; M E</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-thanh-hi%E1%BB%87p-a13a01314/" target="_blank">
